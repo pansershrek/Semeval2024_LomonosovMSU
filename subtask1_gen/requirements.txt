@@ -1,0 +1,12 @@
+datasets
+loralib
+sentencepiece
+git+https://github.com/huggingface/transformers.git
+accelerate
+bitsandbytes
+git+https://github.com/huggingface/peft.git
+gradio
+appdirs
+scikit-learn
+ray==2.6.0
+autoawq
